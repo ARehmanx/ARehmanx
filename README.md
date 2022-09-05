@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Python, Django, Django Rest Framework**
+- 💬 Ask me about **Python Django Django Rest Framework**
+
+- 📫 How to reach me **LinkedIn @abdulrehmans0hai1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
