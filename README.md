@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Sohail</h1>
 <h3 align="center">A passionate Python developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React JS**
-
 - 💬 Ask me about **Python Django Django Rest Framework**
 
 - 📫 How to reach me **LinkedIn @abdulrehmans0hai1**
